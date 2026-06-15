@@ -1,4 +1,4 @@
-- Hi, I’m Andrea Meda, Phd student at The University of Edinburgh, the supervisors of the project are Francesco Tudisco and Kostantinos Zygalakis.
+- Hi, I’m Andrea Meda, Phd student at The University of Edinburgh, the supervisors of the project are Francesco Tudisco and Konstantinos Zygalakis (University of Edinburgh, Maxwell Institute).
 - I graduated at master level in Applied Mathematics in 2022, in a double degree joint program between University of Verona (IT) and Ensimag at Grenoble INP (FR).
 - I’m interested in stochastic optimisation, continuous optimisation, riemannian geometry, numerical linear algebra and machine learning applications.
 
